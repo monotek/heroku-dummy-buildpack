@@ -1,3 +1,3 @@
 # zammad-buildpack
 
-Buildpack which enbales us to build dummy packages for database dependencies onj packager.io
+Heroko style buildpack which enables us to build dummy packages for database dependencies on packager.io without any environment.
