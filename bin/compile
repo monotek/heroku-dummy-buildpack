@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "-----> Found a README.md"
+
